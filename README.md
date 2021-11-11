@@ -9,4 +9,5 @@ This project is carried out using the Yelp dataset from where we extracted the b
 1) Exploratory Data Analysis - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Restaurant_data(EDA).ipynb)
 2) PCA and K-Means Clustering on Business Data - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/PCA_And_KMeans_On_Business_Data.ipynb)
 3) Cosine Similarity for Business Data by User Rating - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Cosine_Similarity.ipynb)
-4) Text Mining for Reviews - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/4)%20Text%20Mining%20for%20Yelp%20Dataset.ipynb)
+4) Text Mining for Reviews - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Text%20Mining%20for%20Yelp%20Dataset.ipynb)
+5) Restaurant Recommendation System - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Restaurant%20Recommendation%20System.ipynb)
