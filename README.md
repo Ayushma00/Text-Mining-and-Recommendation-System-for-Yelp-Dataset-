@@ -1,1 +1,4 @@
 # Text-Mining-and-Recommendation-System-for-Yelp-Dataset-
+
+## Abstract:
+This project is carried out using the Yelp dataset from where we extracted the business and user review datasets for performing restaurant recommendations. The recommendation system is created using hybrid content and a collaborative based filtering method. Here we performed the Exploratory Data Analysis on the business data followed by data cleaning and used dimension reduction techniques PCA (Principal Component Analysis) with K-means clustering on the highest variance explained components. Also, the same content-based filtering approach was taken to recommend the restaurants based on high review star count.  Furthermore, the project is enhanced by implementing the TF-IDF model for text mining the reviews and recommending the restaurants based on the user text reviews favoring the collaborative filtering approach.
