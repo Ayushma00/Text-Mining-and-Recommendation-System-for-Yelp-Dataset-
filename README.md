@@ -11,3 +11,6 @@ This project is carried out using the Yelp dataset from where we extracted the b
 3) Cosine Similarity for Business Data by User Rating - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Cosine_Similarity.ipynb)
 4) Text Mining for Reviews - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Text%20Mining%20for%20Yelp%20Dataset.ipynb)
 5) Restaurant Recommendation System - [Notebook](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/Restaurant%20Recommendation%20System.ipynb)
+6) Final Testing Model file-[Testing py file](https://github.com/Ayushma00/Text-Mining-and-Recommendation-System-for-Yelp-Dataset-/blob/main/restaurant_recommendation_system_user_part.py)
+
+Running process : For running this project type:<br> <h4><strong>python restaurant_recommendation_system_user_part.py </strong></h4><br> in your bash shell.
